@@ -1,17 +1,17 @@
 # 💫 About Me:
 
-🎉 15 Years of CRM Mastery: From Chaos to Customer Casanova
-🌟 Epic Salesforce Skills: Certified Associate, Service Cloud & Data Cloud Consultant
-🛠️ Deployment Dojo: Certified Development Lifecycle & Deployment Architect
-📧✨ Marketing Automation Wizardry: Marketing Cloud Administrator & Consultant
-💻 Advanced Development Prowess: Certified Platform Developer I & II
+🎉 15 Years of CRM Mastery: From Chaos to Customer Casanova<br />
+🌟 Epic Salesforce Skills: Certified Associate, Service Cloud & Data Cloud Consultant<br />
+🛠️ Deployment Dojo: Certified Development Lifecycle & Deployment Architect<br />
+📧✨ Marketing Automation Wizardry: Marketing Cloud Administrator & Consultant<br />
+💻 Advanced Development Prowess: Certified Platform Developer I & II<br />
 🤝 Current Obsession: Empowering Non-Profits with CRM for Better Donor Management
-🚀 Collaboration Cravings: Seeking Innovative CRM Developers
-🤖 AI-powered Customer Insights & Automation
-🔄 Seamless Integrations with Cutting-edge Marketing Tools
-🏢 Custom Industry-specific CRM Solutions
-📉📈 Always Leveling Up: Exploring Low-code/No-code CRM Development
-💬🔍 Ask Me Anything: Custom Integrations, Data Migration, Latest CRM Trends
+🚀 Collaboration Cravings: Seeking Innovative CRM Developers<br />
+🤖 AI-powered Customer Insights & Automation<br />
+🔄 Seamless Integrations with Cutting-edge Marketing Tools<br />
+🏢 Custom Industry-specific CRM Solutions<br />
+📉📈 Always Leveling Up: Exploring Low-code/No-code CRM Development<br />
+💬🔍 Ask Me Anything: Custom Integrations, Data Migration, Latest CRM Trends<br />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crecentechsystems)
